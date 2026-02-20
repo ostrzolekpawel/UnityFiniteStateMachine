@@ -1,0 +1,11 @@
+{
+  "name": "com.osirisgames.fsm",
+  "displayName": "Finite State Machine",
+  "author": { "name": "Osiris" },
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "category": "Tools",
+  "dependencies": {
+  }
+}
